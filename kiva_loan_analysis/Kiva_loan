@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyO5VbncSv67+cOWpbWqXRcZ",
+      "authorship_tag": "ABX9TyNy3l4iZdKNw99xFWAuWT5e",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -25,6 +25,15 @@
       "source": [
         "<a href=\"https://colab.research.google.com/github/Willy-Wilson/python_assignment/blob/main/kiva_loan_analysis/Kiva_loan\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Willy-Wilson/python_assignment/blob/main/kiva_loan_analysis/Kiva_loan.ipynb)"
+      ],
+      "metadata": {
+        "id": "7lmKvSraydok"
+      }
     },
     {
       "cell_type": "markdown",
